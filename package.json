@@ -1,0 +1,27 @@
+{
+
+  "name": "speedrunplace",
+
+  "description": "shows you the position of a time on the leaderboards from speedrun.com",
+
+  "version": "1.0.0",
+
+  "main": "bot.js",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+  
+    "axios.js",
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
